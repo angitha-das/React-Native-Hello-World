@@ -1,0 +1,3 @@
+rootProject.name = 'MyFirstRNativeProject'
+
+include ':app'
