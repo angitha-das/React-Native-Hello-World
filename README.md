@@ -29,5 +29,6 @@ react-native run-android
 
 Modify code and - Press the R key twice or select Reload from the Developer Menu (Ctrl + M) to see your changes!
 
+Refer NativeBase to style your apps - https://nativebase.io/kitchen-sink-app
 
 
